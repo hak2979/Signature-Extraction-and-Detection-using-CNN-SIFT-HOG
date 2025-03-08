@@ -38,9 +38,7 @@ pip install opencv-python numpy tensorflow keras scikit-image
 
 ### Execution Steps
 1. **Run Image Processing:**
-   ```bash
-   python image_processing.py
-   ```
+   Open and run `Image_Processing.ipynb`
 2. **Split Dataset:**
    Open and run `DataSet_Split.ipynb`
 3. **Train Model:**
